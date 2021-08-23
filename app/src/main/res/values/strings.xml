@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TmdbNoModuleTest</string>
+
+    <string name="api_key">b97980fbb4f500325322088e80685159</string>
+</resources>
